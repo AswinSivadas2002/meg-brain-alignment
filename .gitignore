@@ -24,6 +24,9 @@ build/
 conda-env/
 venv/
 
+# Claude Code
+CLAUDE.md
+
 # OS
 .DS_Store
 Thumbs.db
