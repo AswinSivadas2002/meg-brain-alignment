@@ -1,0 +1,33 @@
+# Data files (too large for GitHub)
+*.npy
+*.fif
+*.pkl
+*.hdf5
+*.h5
+data/
+meg_predictions/
+noise_ceiling_preds/
+plots/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+*.env
+conda-env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large model cache
+.cache/
+transformers_cache/

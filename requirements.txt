@@ -1,0 +1,12 @@
+mne
+mne-bids
+transformers
+scipy
+numpy
+matplotlib
+scikit-learn
+gtts
+librosa
+soundfile
+tqdm
+pandas
